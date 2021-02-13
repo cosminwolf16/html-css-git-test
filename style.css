@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #343434;
+}
+
+.container {
+  border: 1px solid yellow;
+  width: 50%;
+}
+
+.box {
+  width: 200px;
+  height: 100px;
+  background: red;
+  border: 1px solid green;
+  margin: 10px;
+}
